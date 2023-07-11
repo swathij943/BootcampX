@@ -7,4 +7,3 @@ assignments
 assignment_submissions
 teachers
 assistance_requests
-.
